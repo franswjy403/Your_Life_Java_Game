@@ -228,7 +228,7 @@ import javax.swing.Timer;
     			
     		});
     		this.add(PlayButt);
-    		
+   
     	}
     	
     	public void setAttribute(){

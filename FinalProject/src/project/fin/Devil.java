@@ -52,15 +52,15 @@ public class Devil extends Character{
 		ImgPool.add(new ImageIcon("devilImage/devilLeft.png").getImage());
 		
 		iconPool = new ArrayList<Image>();
-		iconPool.add(new ImageIcon("devilImage/Heart_30.png").getImage());
-		iconPool.add(new ImageIcon("devilImage/idea_30.png").getImage());
-		iconPool.add(new ImageIcon("devilImage/smiley_30.png").getImage());
-		iconPool.add(new ImageIcon("devilImage/Heart_30.png").getImage());
-		iconPool.add(new ImageIcon("devilImage/cute30.png").getImage());
-		iconPool.add(new ImageIcon("devilImage/idea_30.png").getImage());
-		iconPool.add(new ImageIcon("devilImage/loyalty30.png").getImage());
-		iconPool.add(new ImageIcon("devilImage/cuteness30.png").getImage());
-		iconPool.add(new ImageIcon("devilImage/Heart_30.png").getImage());
+		iconPool.add(new ImageIcon("devilImage/magic30.png").getImage());
+		iconPool.add(new ImageIcon("devilImage/heat30.png").getImage());
+		iconPool.add(new ImageIcon("devilImage/power30.png").getImage());
+		iconPool.add(new ImageIcon("devilImage/magic30.png").getImage());
+		iconPool.add(new ImageIcon("devilImage/greed30.png").getImage());
+		iconPool.add(new ImageIcon("devilImage/power30.png").getImage());
+		iconPool.add(new ImageIcon("devilImage/anger30.png").getImage());
+		iconPool.add(new ImageIcon("devilImage/fireMagic30.png").getImage());
+		iconPool.add(new ImageIcon("devilImage/power30.png").getImage());
 		
 		this.current = ImgPool.get(0);
 		this.Current = 0;
