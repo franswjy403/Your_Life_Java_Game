@@ -59,8 +59,8 @@ Untuk memilih salah satu jawaban, player perlu mengspawn objek yang bisa terbang
 ***
 
 ## Authors
-* **Frans Wijaya** - *Initial Work* - [franswjy403] ("https://github.com/franswjy403")
-* **Vincent Yonathan** - *Initial Work* - [vincentyonathan] ("https://github.com/vincentyonathan")
+* **Frans Wijaya** - *Initial Work* - [franswjy403](https://github.com/franswjy403)
+* **Vincent Yonathan** - *Initial Work* - [vincentyonathan](https://github.com/vincentyonathan)
 ***
 ## Project Status
 On development.
